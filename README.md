@@ -13,7 +13,7 @@ While researching for a meaningful topic for our project work , we were drawn to
 ## Top State across the nation that offer most number of Data Profession jobs 
 California had the most number of Data professional jobs (1395 jobs ) and no other state came close to it in numbers . Trailing far behind was New York(601 jobs) , followed by Virginia(334 jobs), Texas(329 jobs), Massachusetts(271 jobs), Illinois(240 jobs) and Washington (222 jobs ). 
 
-![pic1](/images/topstates.png)
+![pic1](/images/topatates.png)
 
 ## The top 10 companies offering data profession jobs
 The top 10 companies offering data profession jobs are Booz Allen , Hamilton, Harnham, Capgemini, Facebook , KPMG LLP, Walmart ,Capital One, JPMorgan Chase, Google and  IBM. 
@@ -23,7 +23,7 @@ The top 10 companies offering data profession jobs are Booz Allen , Hamilton, Ha
 ## Top Industries offering Data Profession jobs
 Fifteen Industries that are leading in  the fielding of Data Analytics are  Consulting and Business Services, Consulting and Business Services, Banks and Financial Services, Health Care, Insurance, Industrial Manufacturing, Retail, Education and Schools, Computers and Electronics, Consumer Goods and Services, Media, News and Publishing, Human Resources and Staffing, Telecommunications, Government, Pharmaceuticals.
 
-![pic1](/images/topcompanies.png)
+![pic1](/images/topindustries.png)
 
 
 ## Relation between Job types, Job Positions , Salaries :
