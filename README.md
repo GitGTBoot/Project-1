@@ -1,4 +1,4 @@
-# 2018 Data Professional Job Market Analysis ![pic](/images/indeed.png)
+# 2018 Data Professional Job Market Analysis ![pic](/images/indeed.png) Indeed - Data Set
 
 ## By George Oddoye , Vidhyanandhi Jegannathan  
 
