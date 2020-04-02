@@ -21,7 +21,7 @@ The top 10 companies offering data profession jobs are Booz Allen , Hamilton, Ha
 ![pic1](/images/topcompanies.png)
 
 ## Top Industries offering Data Profession jobs
-Fifteen Industries that are leading in  the fielding of Data Analytics are  Consulting and Business Services, Consulting and Business Services, Banks and Financial Services, Health Care, Insurance, Industrial Manufacturing, Retail, Education and Schools, Computers and Electronics, Consumer Goods and Services, Media, News and Publishing, Human Resources and Staffing, Telecommunications, Government, Pharmaceuticals.
+Fifteen Industries that were leading in  the fielding of Data Analytics during the time this dataset was prepared , are  Consulting and Business Services, Consulting and Business Services, Banks and Financial Services, Health Care, Insurance, Industrial Manufacturing, Retail, Education and Schools, Computers and Electronics, Consumer Goods and Services, Media, News and Publishing, Human Resources and Staffing, Telecommunications, Government, Pharmaceuticals.
 
 ![pic1](/images/topindustries.png)
 
